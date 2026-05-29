@@ -48,6 +48,10 @@ You can also confirm the extension is enabled under
 MarkdownPreview checks for updates automatically and will prompt you when a new
 version is available. You can also check manually from the app's menu.
 
+## More apps
+
+Part of [Julien Nicolas's macOS apps & utilities](https://apps.tnfnet.org).
+
 ## License
 
 MIT © Julien Nicolas
